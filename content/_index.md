@@ -8,9 +8,7 @@ Hola ✌️  soy el explorer **Ronnie** y este es mi blog personal donde compart
 Te invito a conocer mis aprendizajes y leer mis experiencias.
 
 Mis espectativas para este proyecto son:
--Aprender Git y GitHub
--Apicar mis conocimientos de front-end
--Aprender a diseñar backend
--Compartir :)
+
+-Aprender Git y GitHub, apicar mis conocimientos de front-end, aprender a diseñar backend, y compartir :)
 
 🚀
