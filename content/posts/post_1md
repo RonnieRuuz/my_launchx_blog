@@ -24,15 +24,16 @@ Una vez teniendo todos esos fundamentos, aprendimos a usar diferentes **APIs**, 
 Ya por último hicimos uso de un framework (Node JS) que por lo que entendi es una especie de guía para la esstructura de un sitio web, eso nos ayuda más para protectos escalables ya que cada lugar va en un sitio especifico y es más facil identificar los elementos del sitio.
 
 En conclusión esto es lo que he aprendido hasta ahora:
-- Python
-- Jupyter notebooks
-- Ciclo de vida de un software
-- Visual Studio Code
-- Git
-- GitHub
-- HTML
-- CSS
-- JavaScript
-- Metodología Scrum
-- APIs
-- Node JS
+
++ Python
++ Jupyter notebooks
++ Ciclo de vida de un software
++ Visual Studio Code
++ Git
++ GitHub
++ HTML
++ CSS
++ JavaScript
++ Metodología Scrum
++ APIs
++ Node JS
