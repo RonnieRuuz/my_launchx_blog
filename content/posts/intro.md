@@ -8,9 +8,9 @@ description: 'Este es mi primer post de la travesía en la Misión de Backend co
 
 Lo que mas valoro de un desarrollador de software es:
 
--La dedicación por aprender constantemente.
--Las ganas de hacer cambios para un mundo mejor.
--Su naturalidad para identificar, proponer y resolver problemas reales.
--La capacidad de compartir y colaborar.
++La dedicación por aprender constantemente.
++Las ganas de hacer cambios para un mundo mejor.
++Su naturalidad para identificar, proponer y resolver problemas reales.
++La capacidad de compartir y colaborar.
 
 Considero que son muchas las cualidades que tiene un desarrollador de software, pero esas, son las que más valoro.
