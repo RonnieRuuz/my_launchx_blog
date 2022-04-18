@@ -8,6 +8,18 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://ronnieruuz.github.io/my_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Mi ruta de aprendizaje</title>
+      <link>https://ronnieruuz.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Sun, 17 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ronnieruuz.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>¡Hola!
+Quiero contarte todo lo que he aprendido en este camino.
+Desde nuestro registro al programa siempre se nos acompaño con sesiones en vivo, se nos oriento y se nos otorgó un correo electronico con el cual personalmente me sentí realmente parte de Innovacción. Este programa tiene una temática espacial por lo que toda la tripulación somos EXPLORERS y nuestros guías son los MISSION COMMANDER.
+Las primeras semanas tuvimos el privilegio de conocer a Fer Ochoa y tenerla como MC (mission comander), una espacialista en ciencia de datos, nadie mejor para acompañarnos es nuestra primera misión, Misión Onboarding; Aqui reforzamos nuestro conocimientro sobre python, hicimos uso de Jupyter notebooks, y aprendimos a crear entornos virtuales.</description>
+    </item>
+    
+    <item>
       <title>La cultura de un desarrollador de software</title>
       <link>https://ronnieruuz.github.io/my_launchx_blog/posts/intro/</link>
       <pubDate>Mon, 21 Feb 2022 18:16:21 -0600</pubDate>
